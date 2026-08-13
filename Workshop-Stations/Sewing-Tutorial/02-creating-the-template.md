@@ -37,7 +37,7 @@ If your width and length fall into different size rows, use the larger of the tw
 
 <br>
 
-Source files are in [templates/](templates/). The Small and Medium templates both fit on standard letter paper — [pattern-piece-small-and-medium.pdf](templates/pattern-piece-small-and-medium.pdf) has both on one sheet, or print [pattern-piece-small.png](templates/pattern-piece-small.png) / [pattern-piece-medium.pdf](templates/pattern-piece-medium.pdf) separately. The Large template requires legal-size paper: [pattern-piece-large-legal.pdf](templates/pattern-piece-large-legal.pdf). Print at 100% scale (no "fit to page" scaling), then cut out each template along the outer edge before the workshop.
+Source files are in [templates/](templates/). The Small and Medium templates both fit on standard letter paper — [pattern-piece-small-and-medium.pdf](templates/pattern-piece-small-and-medium.pdf) has both on one sheet, or print [pattern-piece-small.pdf](templates/pattern-piece-small.pdf) / [pattern-piece-medium.pdf](templates/pattern-piece-medium.pdf) separately. The Large template requires legal-size paper: [pattern-piece-large-legal.pdf](templates/pattern-piece-large-legal.pdf). Print at 100% scale (no "fit to page" scaling), then cut out each template along the outer edge before the workshop.
 
 </details>
 
