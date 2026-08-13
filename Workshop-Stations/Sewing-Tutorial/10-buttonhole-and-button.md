@@ -30,6 +30,25 @@ Test the closure by fastening the button through the buttonhole. The button shou
 
 Congratulations! You have now finished your first sewing project 🙂
 
+## What's Next?
+
+Every skill you practiced in this tutorial has a direct application in wearable electronics:
+
+- **Measuring, seam allowances, and templates** let you size an enclosure to fit a specific component — a battery, microcontroller, or sensor — instead of just an item like glasses.
+- **Quilting lines** aren't just decorative; the channels they create can route wires cleanly through a fabric enclosure, keeping connections organized and protected from strain.
+- **Buttonholes and reinforced "windows"** are how you create an opening for something to pass through fabric — an LED, a switch, a charging port — without the raw edges fraying over time.
+- **Hand sewing with embroidery thread** is also how you'd secure a component (like a coin cell holder or a sensor) to the batting layer by hand before it gets sewn or quilted into place.
+
+### Project Ideas
+
+- **Light-up pouch or badge** — Sew LEDs into the quilted panel with conductive thread, using the quilting lines to hide the traces, and a coin cell battery holder tacked to the fleece.
+- **Wearable sensor pocket** — Adapt the pattern to hold a small sensor board (e.g., an accelerometer or heart-rate sensor) against the body, with a buttonhole "window" so the sensor can read through the fabric.
+- **Soft circuit wristband or armband** — Use the same seam and hemming techniques at a smaller scale to build a wearable band with an embedded microcontroller pocket.
+- **E-textile bag with a charging port** — Reinforce a buttonhole-style opening to let a USB cable pass through a bag or pouch without fraying, so a battery pack can charge a device from outside.
+- **Modular component pouch** — Make a set of pouches in different template sizes to hold interchangeable electronics modules, swappable between projects.
+
+If you're building any of these, remember: **never sew directly over electronic components or wires with a sewing machine.** Hand-stitch components in place first, and route wires through quilting channels rather than across seams.
+
 ---
 
 [← Back to Table of Contents](README.md) | [← Previous: Sewing Both Pieces Together](09-sewing-both-pieces-together.md)

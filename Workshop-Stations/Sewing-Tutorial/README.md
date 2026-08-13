@@ -17,7 +17,6 @@ By the end of this tutorial you will be able to:
 - Add quilting lines that double as wire channels for future electronics projects
 - Create and reinforce a buttonhole and attach a button
 
-> **Note:** One diagram referenced in the original source material (a color diagram of the paper template) was removed by the author pending a colorblind-accessible redesign, and hasn't been replaced yet. Step 3 of [Part 2: Creating the Template](02-creating-the-template.md) is text-only until that diagram is available.
 
 ## Table of Contents
 
