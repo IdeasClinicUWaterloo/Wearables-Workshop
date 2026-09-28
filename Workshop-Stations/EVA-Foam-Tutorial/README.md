@@ -4,7 +4,7 @@ Welcome to the EVA Foam station!
 
 In this station, you will learn the fundamentals of EVA foam fabrication by making a simple glasses case that can be attached to your backpack. EVA foam is lightweight, inexpensive, easy to shape with heat, and widely used for wearable prototypes, cosplay, protective padding, and simple enclosures.
 
-By the end of this tutorial, you will have a functional glasses case and the foundational skills to create your own EVA foam projects.
+By the end of this tutorial, you will have a functional glasses case and the foundational skills to create your own EVA foam projects. If you wish to try another project with the foam after completing the glasses case, you must draw up a template and show a workshop host that your design for approval.
 
 ---
 
@@ -39,7 +39,7 @@ After completing this tutorial, you will be able to:
 - Paper
 - Pencil or marker
 - Scissors
-- Cutting mat
+- Heat mat
 - Heat gun
 - Ruler
 - Hot glue gun
