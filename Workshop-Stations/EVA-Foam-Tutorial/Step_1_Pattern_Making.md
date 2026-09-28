@@ -29,14 +29,14 @@ Cut out the template while the paper is still folded, then unfold it to create a
 Create separate templates for the retaining strap and the hanging strap while the paper is still folded.
 
 ### 7. Strap dimensions
-Make the retaining strap approximately 4 cm × 2 cm and the hanging strap approximately 8 cm × 2 cm. These dimensions are only a starting point and can be adjusted during the fit test.
+Make the retaining strap approximately 8 cm × 2 cm and the hanging strap approximately 16 cm × 2 cm. These dimensions are only a starting point and can be adjusted during the fit test.
 
 <div align="center">
   <img width="737" height="236" alt="Strap templates" src="https://github.com/user-attachments/assets/c5cb7005-f787-49af-a20f-23206449ee7c" />
 </div>
 
 ### 8. Test fit
-Test all templates on the glasses and adjust as needed before transferring them onto the EVA foam.
+Test all templates on the glasses and adjust as needed before transferring them onto the EVA foam. You can reference the provided examples to see the proper fit.
 
 <div align="center">
   <img width="594" height="359" alt="Fit test on glasses" src="https://github.com/user-attachments/assets/c69ff9c0-7fe3-49f1-a630-61d5f8967864" />
