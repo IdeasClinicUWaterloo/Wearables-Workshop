@@ -51,11 +51,13 @@ If glue is not coming out, you may need to add another stick. Do not push foreig
 
 The heat gun gets VERY hot. Mode 1 heats air to 260°C (500°F) and mode 2 heats air to 450°C (840°F). Above 70°C, burns to the skin can occur with less than a second of contact.
 
-Do NOT touch the tip of the heat gun
-Do NOT point the heat gun at yourself
-Do NOT point the heat gun at anyone else
-Do NOT point the heat gun at anything flammable
-Do NOT leave the heat gun unattended while on
+- Do NOT touch the tip of the heat gun
+- Do NOT point the heat gun at yourself
+- Do NOT point the heat gun at anyone else
+- Do NOT point the heat gun at anything flammable
+- Do NOT leave the heat gun unattended while on
+
+When heating EVA foam, it is **critical to work in a well-ventilated area** as when EVA foam is heated up more than it is supposed to it can release hazardous fumes. In this workshop, we will use fume extractors to keep the area well-ventilated. If you are working with EVA foam on your own time, make sure to have a method to mitigate the fumes. 
 
 ## Iron
 
