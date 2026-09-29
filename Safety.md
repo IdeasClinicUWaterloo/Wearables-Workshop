@@ -66,5 +66,19 @@ Do NOT leave the iron unattended while on/hot
 Do NOT place hot surface of iron on flammable materials
 
 ## Pins and Needles
+DO NOT touch the tip of a pin/needle 
+Put pins and needles in pin cushion when not in use 
 
 ## Sewing machines
+DO NOT put your hand under the needle 
+DO NOT touch the tip of the needle 
+If your fabric is caught, DO NOT start pulling it 
+When you finish sewing make sure the needle is at the highest position (turn the handle towards you to raise it)
+Always make sure to have the foot down when you are sewing 
+Take out pins before they reach the foot 
+Turn off the machine when unattended 
+Always have one hand on your fabric 
+Start sewing slowly (eg. first 3 stitches using hand wheel, press peddle slowly)
+If the machine starts making weird noises STOP THE MACHINE
+If there is a lot of thread piling up STOP THE MACHINE and have a workshop host come take a look 
+When in doubt STOP THE MACHINE
