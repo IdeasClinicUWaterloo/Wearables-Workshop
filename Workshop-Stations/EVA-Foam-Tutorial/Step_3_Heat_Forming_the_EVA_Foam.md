@@ -5,6 +5,7 @@
 
 ### 🔥 Advice and Safety Reminder
 
+- 😮‍💨 **When heating EVA foam, it is critical to work in a well-ventilated area** as when EVA foam is heated up more than it is supposed to it can release hazardous fumes. In this workshop, we will use fume extractors to keep the area well-ventilated. If you are working with EVA foam on your own time, make sure to have a method to mitigate the fumes.
 - 🟠 **Always** place the EVA foam on a **heat-resistant mat** before using the heat gun.
 - 🔥 **Never** place your hand underneath or directly in front of the heat gun nozzle. Hot air can burn your skin even without touching the nozzle.
 - 🚫 **Never** point the heat gun at yourself or anyone else.
