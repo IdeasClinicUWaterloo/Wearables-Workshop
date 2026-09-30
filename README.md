@@ -7,5 +7,5 @@ Please read through our safety instructions before attending the workshop
 [**Safety Intstructions**](Safety.md)
 
 You can also read through the workshop instructions using the links below. We recommend reading through these before the workshop.
-- [EVA Foam Activity](EVA-Foam-Tutorial/README.md)
-- [Sewing Activity](Sewing-Tutorial/README.md)
+- [EVA Foam Activity](Workshop-Stations/EVA-Foam-Tutorial/README.md)
+- [Sewing Activity](Workshop-Stations/Sewing-Tutorial/README.md)
