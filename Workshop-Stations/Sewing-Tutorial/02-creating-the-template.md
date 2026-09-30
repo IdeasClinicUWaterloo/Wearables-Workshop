@@ -25,7 +25,7 @@ The fabric and batting templates measurements are below and these templates are 
 
 ### Reading the Template
 
-![Paper pattern template diagram showing fabric and batting measurements](templates/pattern-piece-anatomy-diagram.png)
+![Paper pattern template diagram showing fabric and batting measurements](templates/template_info.png)
 
 - **Solid black line:** cut line for the fabric and batting.
 - **Dashed black line:** gives a rough idea of how the batting should fit on the fabric.
