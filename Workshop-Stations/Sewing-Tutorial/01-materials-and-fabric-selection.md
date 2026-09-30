@@ -4,6 +4,8 @@
 
 ## You Will Need
 
+Not all of the equipment listed below will be used during this workshop, but this is an example of how you can expand your equipment. 
+
 ![Flat lay of sewing supplies labeled: sewing machine, batting, pins, iron, seam ripper, measuring tape, tailor's chalk, graph paper, bobbin, thread, button, embroidery thread, embroidery scissors, embroidery needles, compass tool, pinking shears, fabric scissors, and outer/inner fabric](images/02-materials-overview.png)
 
 | | |
@@ -11,12 +13,12 @@
 | A sewing machine | Iron and ironing board/mat |
 | Measuring tape and ruler | Scissors |
 | Seam ripper | &nbsp;&nbsp;- Fabric scissors |
-| Pins or clips | &nbsp;&nbsp;- Embroidery scissors |
+| Pins or clips | &nbsp;&nbsp;- Optional: Embroidery scissors |
 | Tailor's chalk | &nbsp;&nbsp;- Paper scissors |
-| Compass tool | &nbsp;&nbsp;- Optional: pinking shears |
+| Compass tool | &nbsp;&nbsp;- Optional: Pinking shears |
 | ⅛-inch quarter batting | Sewing thread and bobbin |
-| ⅛-inch quarter fabric (for both inner and outer fabric) | Embroidery thread |
-| | Button |
+| ⅛-inch quarter fabric (for both inner and outer fabric) | Optional: Embroidery thread |
+| Sewing needles | Button |
 | | Graph paper |
 
 ## Selecting Fabric
