@@ -2,13 +2,13 @@
 
 # 8. Closing the Bottom Edge
 
-If you have not already done so, trim the open edge using pinking shears. The zigzag edge helps reduce fraying while you work with the fabric.
+The opening will be closed by hand sewing a blanket stitch. You can ask a workshop staff to guide you through the procedure and/or follow the linked videos below. 
 
-Using the same machine settings as before, sew a straight line along the open edge. This line of stitching helps stabilize the fabric and makes it easier to fold the edge neatly.
+First put thread the needle using roughly 2' of thread and fold it in half and tie a knot to secure it (How to tie a knot video) - the folded thread should be about 1' in length. 
 
-Next, fold the edge over as close to the stitched line as possible and press it flat with an iron. Sew another straight line along the folded edge to secure the hem.
+Then start your blanket stitch by putting the needle through one piece of the fabric and follow this video to do a blanket stitch. 
 
-Repeat these steps for both the outer pouch and the inner lining.
+Once you have closed the opening, end your blanket stitch by following this video. 
 
 ![Before-and-after comparison of a quilted fabric edge: raw zigzag-cut edge on the left, folded and hemmed edge on the right](images/15-closing-bottom-edge.png)
 
