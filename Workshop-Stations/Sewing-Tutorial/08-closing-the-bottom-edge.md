@@ -1,6 +1,6 @@
 [← Back to Table of Contents](README.md) | [← Previous: Adding Quilting Lines](07-adding-quilting-lines.md) | [Next: Sewing Both Pieces Together →](09-sewing-both-pieces-together.md)
 
-# 8. Closing the Bottom Edge
+# 8. Closing the Opening
 
 The opening will be closed by hand sewing a blanket stitch. You can ask a workshop staff to guide you through the procedure and/or follow the linked videos below. 
 
