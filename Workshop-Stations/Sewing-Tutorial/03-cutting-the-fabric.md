@@ -8,7 +8,7 @@ Usually you would press your cotton fabric using an iron to remove wrinkles, how
 
 To cut the fabric pieces, pin to a piece of fabric (patterned or purple) and cut it out using fabric scissors and careful to not cut the paper template. Repeat the steps used for the other fabric pieces (patterned or purple). You should have 2 fabric pieces following this.
 
-![Rectangular paper template with dashed fold and stitch lines pinned onto owl-print fabric](images/07-pinning-template-front.png)
+![Fabric piece with template pinned to it](redesign-images/pinning-and-cutting.jpg)
 
 The batting is already cut for you however if you were to do it yourself you would use the batting template and pin and cut as previously shown. 
 
