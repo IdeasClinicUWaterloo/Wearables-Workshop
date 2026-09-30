@@ -2,21 +2,21 @@
 
 # 3. Cutting the Fabric
 
-Before cutting, press your cotton fabric using an iron set to high heat with steam. Pressing removes wrinkles and helps ensure your pattern pieces are cut accurately. The fusible fleece does not need to be pre-pressed — it will be ironed on in the fusing step below.
+Usually you would press your cotton fabric using an iron to remove wrinkles, however as you are working from smaller pieces you will iron your cut pieces. 
 
 ![Ironing purple fabric next to a honeycomb-patterned pressing mat](images/06-pressing-fabric.png)
 
-To cut the **back pieces**, pin the paper template as-is to the outer fabric and cut around them as closely as possible using fabric scissors. Repeat this for the inner lining. You should have 2 back pieces when you are done cutting.
+To cut the fabric pieces, pin to a piece of fabric (patterned or purple) and cut it out using fabric scissors and careful to not cut the paper template. Repeat the steps used for the other fabric pieces (patterned or purple). You should have 2 fabric pieces following this.
 
 ![Rectangular paper template with dashed fold and stitch lines pinned onto owl-print fabric](images/07-pinning-template-front.png)
 
-To cut the **front pieces**, fold the template along the green line and pin to the outer fabric. Repeat the steps used for the back pieces. You should have 2 front pieces following this.
+The batting is already cut for you however if you were to do it yourself you would use the batting template and pin and cut as previously shown. 
 
-To cut the **fusible fleece back piece**, fold the template along the red dotted line (including the semicircle above). Pin and cut as previously. For the **fusible fleece front piece**, fold along the red dotted line parallel to the green line — you should have a rectangular shape. Again, pin and cut.
-
-You should now have 2 back pieces, 2 front pieces, and 2 pieces of fusible fleece.
+You should now have 2 pieces of fabric (patterned and purple) and a piece of fusible fleece.
 
 ![Curved paper template pinned onto white fusible fleece, ready to be cut](images/08-pinning-template-batting.png)
+
+After cutting, press your cotton fabric using an iron set to high heat with steam. Pressing removes wrinkles and helps ensure your pattern pieces are cut accurately. The fusible fleece does not need to be pre-pressed — it will be ironed on in the fusing step below.
 
 ## Fusing the Fleece to the Fabric
 
