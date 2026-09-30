@@ -12,10 +12,10 @@ Not all of the equipment listed below will be used during this workshop, but thi
 |---|---|
 | A sewing machine | Iron and ironing board/mat |
 | Measuring tape and ruler | Scissors |
-| Seam ripper | &nbsp;&nbsp;- Fabric scissors |
-| Pins or clips | &nbsp;&nbsp;- Optional: Embroidery scissors |
-| Tailor's chalk | &nbsp;&nbsp;- Paper scissors |
-| Compass tool | &nbsp;&nbsp;- Optional: Pinking shears |
+| Seam ripper | Fabric scissors |
+| Pins or clips | Optional: Embroidery scissors |
+| Tailor's chalk | Paper scissors |
+| Compass tool | Optional: Pinking shears |
 | ⅛-inch quarter batting | Sewing thread and bobbin |
 | ⅛-inch quarter fabric (for both inner and outer fabric) | Optional: Embroidery thread |
 | Sewing needles | Button |
