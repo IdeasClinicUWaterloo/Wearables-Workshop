@@ -1,4 +1,4 @@
-# Wearable_Workshop
+# Wearables Workshop
 Created by: Engineering IDEAs Clinic Co-op Students
 Hosted by: Engineering Ideas Clinic
 
