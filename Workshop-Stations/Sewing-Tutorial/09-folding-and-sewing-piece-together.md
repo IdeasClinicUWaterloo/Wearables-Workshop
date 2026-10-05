@@ -1,6 +1,6 @@
-[← Back to Table of Contents](README.md) | [← Previous: Closing the Bottom Edge](08-closing-the-bottom-edge.md) | [Next: Buttonhole and Button →](10-buttonhole-and-button.md)
+[← Back to Table of Contents](README.md) | [← Previous: Closing the Opening](08-closing-the-opening.md) | [Next: Buttonhole and Button →](10-buttonhole-and-button.md)
 
-# 9. Sewing Both Pieces Together
+# 9. Folding and Sewing Piece Together
 
 Fold the piece with the purple side facing out and patterned side facing in roughly in half and leave the semi-circle section at the top as that will be your opening/closing flap. 
 
