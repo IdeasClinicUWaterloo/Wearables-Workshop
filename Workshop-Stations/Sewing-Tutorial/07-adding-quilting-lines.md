@@ -16,4 +16,4 @@ If incorporating electronics into your design, these quilted channels can help o
 
 ---
 
-[← Back to Table of Contents](README.md) | [← Previous: Trimming and Turning](06-trimming-and-turning.md) | [Next: Closing the Bottom Edge →](08-closing-the-bottom-edge.md)
+[← Back to Table of Contents](README.md) | [← Previous: Trimming and Turning](06-trimming-and-turning.md) | [Next: Closing the Opening →](08-closing-the-opening.md)
