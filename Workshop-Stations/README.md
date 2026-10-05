@@ -4,8 +4,8 @@ The Wearable Workshop is divided into two stations that introduce participants t
 By completing both stations, student will gain experience in soft fabrication through sewing and EVA foam before applying these skills in combination to electronics and mechanical design to an independent project.
 
 ---
-## Station 1 - Sewing
+[## Station 1 - Sewing](Workshop-Stations/Sewing-Tutorial/README.md)
 This station will be comprised of multiple smaller sub-stations that will allow you to create a fabric glasses case. These stations include an ironing station, fabric cutting station, sewing station, and a hand sewing station. 
 
-## Station 2 – EVA Foam
+[## Station 2 – EVA Foam](Workshop-Stations/EVA-Foam-Tutorial/README.md)
 In this station, you will create a lightweight EVA foam glasses case with an adjustable hanging strap that can be attached to a backpack or bag
