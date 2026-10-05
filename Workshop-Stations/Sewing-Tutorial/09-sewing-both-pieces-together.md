@@ -19,4 +19,4 @@ Turn the entire pouch right-side out by pulling it through the opening.
 
 ---
 
-[← Back to Table of Contents](README.md) | [← Previous: Closing the Bottom Edge](08-closing-the-bottom-edge.md) | [Next: Buttonhole and Button →](10-buttonhole-and-button.md)
+[← Back to Table of Contents](README.md) | [← Previous: Closing the Opening](08-closing-the-opening.md) | [Next: Buttonhole and Button →](10-buttonhole-and-button.md)
