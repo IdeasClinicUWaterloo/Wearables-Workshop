@@ -24,10 +24,10 @@ By the end of this tutorial you will be able to:
 2. [Creating the Template](02-creating-the-template.md) — Measuring your item and drafting a reusable paper pattern
 3. [Cutting the Fabric](03-cutting-the-fabric.md) — Pressing fabric and cutting all pattern pieces
 4. [Threading the Machine](04-threading-the-machine.md) — Getting your sewing machine ready to sew
-5. [Sewing the Front and Back Pieces](05-sewing-front-and-back-pieces.md) — Pinning, sewing, and backstitching each side
+5. [Sewing the Front and Back Pieces](05-pinning-and-sewing-the-fabric-and-batting.md) — Pinning, sewing, and backstitching the piece
 6. [Trimming and Turning](06-trimming-and-turning.md) — Trimming seam allowances and turning pieces right-side out
 7. [Adding Quilting Lines](07-adding-quilting-lines.md) — Decorative and functional stitching for wire routing
-8. [Closing the Bottom Edge](08-closing-the-bottom-edge.md) — Hemming the opening used to turn the pouch
+8. [Closing the Bottom Edge](08-closing-the-opening.md) — Hemming the opening used to turn the pouch
 9. [Sewing Both Pieces Together](09-sewing-both-pieces-together.md) — Joining the outer pouch and inner lining
 10. [Buttonhole and Button](10-buttonhole-and-button.md) — Creating, reinforcing, and closing the buttonhole
 
