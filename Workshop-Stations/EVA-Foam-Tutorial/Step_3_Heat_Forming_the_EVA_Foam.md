@@ -1,4 +1,4 @@
-[← Back to Table of Contents](README.md) | [Safety](../../Safety.md) | [← Previous: Cutting the EVA Foam](Step_2_Cutting_the_EVA_Foam.md) | [Next: Assembling the EVA Foam→](Step_4_Assembling_the_EVA_Foam.md)
+[← Back to Table of Contents](README.md) | [← Safety Page](../../Safety.md) | [← Previous: Cutting the EVA Foam](Step_2_Cutting_the_EVA_Foam.md) | [Next: Assembling the EVA Foam→](Step_4_Assembling_the_EVA_Foam.md)
 
 # Step 3 - Heat Forming the EVA Foam
 
@@ -65,4 +65,4 @@ Repeat the process for the straps. Test-fit all the pieces on the glasses and ma
   <img width="400" height="396" alt="Heat_Gun_Bend" src="https://github.com/user-attachments/assets/183d4a27-2d2d-4935-9f48-0832c22557f6" />
 </div>
 
-[← Back to Table of Contents](README.md) | [Safety](../../Safety.md) | [← Previous: Cutting the EVA Foam](Step_2_Cutting_the_EVA_Foam.md) | [Next: Assembling the EVA Foam→](Step_4_Assembling_the_EVA_Foam.md)
+[← Back to Table of Contents](README.md) | [← Safety Page](../../Safety.md) | [← Previous: Cutting the EVA Foam](Step_2_Cutting_the_EVA_Foam.md) | [Next: Assembling the EVA Foam→](Step_4_Assembling_the_EVA_Foam.md)
