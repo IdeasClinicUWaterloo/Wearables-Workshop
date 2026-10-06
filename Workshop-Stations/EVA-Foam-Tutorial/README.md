@@ -1,4 +1,4 @@
-[← Back to Safety](../../Safety.md) | [← Previous: Stations Information](../STATIONS_README.md) | [Next: Pattern Making](Step_1_Pattern_Making.md)
+[← Back to Safety](../../Safety.md) | [← Previous: Stations Information](../STATIONS_README.md) | [Next: Pattern Making →](Step_1_Pattern_Making.md)
 
 # EVA Foam Tutorials
 
@@ -46,4 +46,4 @@ After completing this tutorial, you will be able to:
 - Ruler
 - Hot glue gun
 
-[← Back to Safety](../../Safety.md) | [← Previous: Stations Information](../STATIONS_README.md) | [Next: Pattern Making](Step_1_Pattern_Making.md)
+[← Back to Safety](../../Safety.md) | [← Previous: Stations Information](../STATIONS_README.md) | [Next: Pattern Making →](Step_1_Pattern_Making.md)
