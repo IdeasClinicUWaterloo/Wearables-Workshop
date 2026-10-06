@@ -1,3 +1,5 @@
+[← Back to Table of Contents](README.md) | [Next: Cutting the EVA Foam →](Step_2_Cutting_the_EVA_Foam.md)
+
 # Step 1 – Pattern Making
 
 Before cutting any EVA foam, create paper templates for the glasses case. Using paper first allows you to check the size, shape, and fit before committing to the final material. The finished template should resemble the shape shown in Figure 1.
@@ -42,7 +44,4 @@ Test all templates on the glasses and adjust as needed before transferring them 
   <img width="594" height="359" alt="Fit test on glasses" src="https://github.com/user-attachments/assets/c69ff9c0-7fe3-49f1-a630-61d5f8967864" />
 </div>
 
-<br>
-<div align="right">
-  <strong>Next:</strong> <a href="Step_2_Cutting_the_EVA_Foam.md">Cutting the EVA Foam</a>
-</div>
+[← Back to Table of Contents](README.md) | [Next: Cutting the EVA Foam →](Step_2_Cutting_the_EVA_Foam.md)
