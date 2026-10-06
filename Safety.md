@@ -1,4 +1,4 @@
-[To README](README.md) | [Sewing Station Instructions](Sewing-Tutorial/README.md) | [Foam Station Instructions](EVA-Foam-Tutorial/README.md)
+[To README](README.md) | [Sewing Station Instructions](Workshop-Stations/Sewing-Tutorial/README.md) | [Foam Station Instructions](Workshop-Stations/EVA-Foam-Tutorial/README.md)
 
 # Safety Guidelines
 
@@ -87,4 +87,4 @@ Do NOT place hot surface of iron on flammable materials
 - If there is a lot of thread piling up STOP THE MACHINE and have a workshop host come take a look 
 - When in doubt STOP THE MACHINE
 
-[To README](README.md) | [Sewing Station Instructions](Sewing-Tutorial/README.md) | [Foam Station Instructions](EVA-Foam-Tutorial/README.md)
+[To README](README.md) | [Sewing Station Instructions](Workshop-Stations/Sewing-Tutorial/README.md) | [Foam Station Instructions](Workshop-Stations/EVA-Foam-Tutorial/README.md)
