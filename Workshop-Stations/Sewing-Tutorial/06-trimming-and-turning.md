@@ -1,4 +1,4 @@
-[← Back to Table of Contents](README.md) | [← Previous: Sewing the Front and Back Pieces](05-sewing-front-and-back-pieces.md) | [Next: Adding Quilting Lines →](07-adding-quilting-lines.md)
+[← Back to Table of Contents](README.md) | [← Previous: Pinning and Sewing the Fabric and Batting](05-pinning-and-sewing-the-fabric-and-batting.md) | [Next: Adding Quilting Lines →](07-adding-quilting-lines.md)
 
 # 6. Trimming the Seam Allowance
 
@@ -20,4 +20,4 @@ Press both pieces flat with an iron before continuing.
 
 ---
 
-[← Back to Table of Contents](README.md) | [← Previous: Sewing the Front and Back Pieces](05-sewing-front-and-back-pieces.md) | [Next: Adding Quilting Lines →](07-adding-quilting-lines.md)
+[← Back to Table of Contents](README.md) | [← Previous: Pinning and Sewing the Fabric and Battings](05-pinning-and-sewing-the-fabric-and-batting.md) | [Next: Adding Quilting Lines →](07-adding-quilting-lines.md)
