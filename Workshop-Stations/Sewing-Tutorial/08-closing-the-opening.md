@@ -1,4 +1,4 @@
-[← Back to Table of Contents](README.md) | [← Previous: Adding Quilting Lines](07-adding-quilting-lines.md) | [Next: Sewing Both Pieces Together →](09-sewing-both-pieces-together.md)
+[← Back to Table of Contents](README.md) | [← Previous: Adding Quilting Lines](07-adding-quilting-lines.md) | [Next: Folding and Sewing the Piece Together →](09-folding-and-sewing-the-piece-together.md)
 
 # 8. Closing the Opening
 
@@ -14,4 +14,4 @@ Once you have closed the opening, end your blanket stitch by following this [end
 
 ---
 
-[← Back to Table of Contents](README.md) | [← Previous: Adding Quilting Lines](07-adding-quilting-lines.md) | [Next: Sewing Both Pieces Together →](09-sewing-both-pieces-together.md)
+[← Back to Table of Contents](README.md) | [← Previous: Adding Quilting Lines](07-adding-quilting-lines.md) | [Next: Folding and Sewing the Piece Together →](09-folding-and-sewing-the-piece-together.md)
