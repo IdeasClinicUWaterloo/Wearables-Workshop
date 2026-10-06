@@ -1,3 +1,5 @@
+[To README](../README.md) | [To Safety Instructions](../Safety.md)
+
 # Workshop Stations
 The Wearable Workshop is divided into two stations that introduce participants to the core skills required for wearable prototyping. Each station includes a guided tutorial, a sample project, and support from workshop supervisors.
 
@@ -9,3 +11,5 @@ This station will be comprised of multiple smaller sub-stations that will allow 
 
 ## Station 2 – EVA Foam
 In this station, you will create a lightweight EVA foam glasses case with an adjustable hanging strap that can be attached to a backpack or bag. Read the instructions for this station [here](EVA-Foam-Tutorial/README.md).
+
+[To README](../README.md) | [To Safety Instructions](../Safety.md)
