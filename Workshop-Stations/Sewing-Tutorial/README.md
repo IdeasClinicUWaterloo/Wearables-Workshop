@@ -1,3 +1,5 @@
+[← Back to Safety](Safety.md) | [← Previous: Stations Information](STATIONS_README.md) | [Next: Materials and Fabric Selections →](01-materials-and-fabric-selection.md)
+
 # Sewing Basics: Creating a Storage Pouch
 
 ![A finished quilted owl-print storage pouch with a snap-button flap, held in a hand](images/01-finished-pouch.png)
@@ -24,11 +26,11 @@ By the end of this tutorial you will be able to:
 2. [Creating the Template](02-creating-the-template.md) — Measuring your item and drafting a reusable paper pattern
 3. [Cutting the Fabric](03-cutting-the-fabric.md) — Pressing fabric and cutting all pattern pieces
 4. [Threading the Machine](04-threading-the-machine.md) — Getting your sewing machine ready to sew
-5. [Sewing the Front and Back Pieces](05-pinning-and-sewing-the-fabric-and-batting.md) — Pinning, sewing, and backstitching the piece
+5. [Pinning and Sewing the Fabric and Batting](05-pinning-and-sewing-the-fabric-and-batting.md) — Pinning, sewing, and backstitching the piece
 6. [Trimming and Turning](06-trimming-and-turning.md) — Trimming seam allowances and turning pieces right-side out
 7. [Adding Quilting Lines](07-adding-quilting-lines.md) — Decorative and functional stitching for wire routing
-8. [Closing the Bottom Edge](08-closing-the-opening.md) — Hemming the opening used to turn the pouch
-9. [Sewing Both Pieces Together](09-sewing-both-pieces-together.md) — Joining the outer pouch and inner lining
+8. [Closing the Opening](08-closing-the-opening.md) — Hemming the opening used to turn the pouch
+9. [Folding and Sewing Piece Together](09-folding-and-sewing-piece-together.md) — Creating pouch and flap shape
 10. [Buttonhole and Button](10-buttonhole-and-button.md) — Creating, reinforcing, and closing the buttonhole
 
 ## Credits
@@ -36,3 +38,5 @@ By the end of this tutorial you will be able to:
 - Photos in sections 1–10 (except where noted) taken by Myesha Zaman, IDEAS Clinic RA S2026.
 - Backstitch diagram: designed by Myesha Zaman, IDEAS Clinic RA S2026.
 - Woven vs. knit fabric illustration: adapted from [guangzhoufabric.com](https://guangzhoufabric.com/2025/05/05/knit-vs-woven-fabrics-whats-the-difference/).
+
+[← Back to Safety](Safety.md) | [← Previous: Stations Information](STATIONS_README.md) | [Next: Materials and Fabric Selections →](01-materials-and-fabric-selection.md)
