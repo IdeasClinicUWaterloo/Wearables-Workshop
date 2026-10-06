@@ -1,3 +1,5 @@
+[← Back to Safety](../../Safety.md) | [← Previous: Stations Information](../STATIONS_README.md) | [Next: Pattern Making](Step_1_Pattern_Making.md)
+
 # EVA Foam Tutorials
 
 Welcome to the EVA Foam station!
@@ -43,3 +45,5 @@ After completing this tutorial, you will be able to:
 - Heat gun
 - Ruler
 - Hot glue gun
+
+[← Back to Safety](../../Safety.md) | [← Previous: Stations Information](../STATIONS_README.md) | [Next: Pattern Making](Step_1_Pattern_Making.md)
