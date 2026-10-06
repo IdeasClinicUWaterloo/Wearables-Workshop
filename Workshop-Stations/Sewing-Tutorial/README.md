@@ -1,4 +1,4 @@
-[← Back to Safety](.../.../Safety.md) | [← Previous: Stations Information](.../STATIONS_README.md) | [Next: Materials and Fabric Selections →](01-materials-and-fabric-selection.md)
+[← Back to Safety](../../Safety.md) | [← Previous: Stations Information](../STATIONS_README.md) | [Next: Materials and Fabric Selections →](01-materials-and-fabric-selection.md)
 
 # Sewing Basics: Creating a Storage Pouch
 
@@ -39,4 +39,4 @@ By the end of this tutorial you will be able to:
 - Backstitch diagram: designed by Myesha Zaman, IDEAS Clinic RA S2026.
 - Woven vs. knit fabric illustration: adapted from [guangzhoufabric.com](https://guangzhoufabric.com/2025/05/05/knit-vs-woven-fabrics-whats-the-difference/).
 
-[← Back to Safety](.../.../Safety.md) | [← Previous: Stations Information](.../STATIONS_README.md) | [Next: Materials and Fabric Selections →](01-materials-and-fabric-selection.md)
+[← Back to Safety](../../Safety.md) | [← Previous: Stations Information](../STATIONS_README.md) | [Next: Materials and Fabric Selections →](01-materials-and-fabric-selection.md)
