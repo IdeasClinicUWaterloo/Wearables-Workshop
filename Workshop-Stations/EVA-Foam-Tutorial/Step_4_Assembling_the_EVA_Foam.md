@@ -1,3 +1,5 @@
+[← Back to Table of Contents](README.md) | [← Previous: Heat Forming the EVA Foam](Step_3_Heat_Forming_the_EVA_Foam.md)
+
 # Step 4 - Assembly
 
 With all of the pieces prepared, the glasses case can now be assembled. Before applying any adhesive, perform a dry fit to ensure the template folds correctly around the glasses and all components are positioned properly.
@@ -62,6 +64,4 @@ Perform a final fit check to make sure the glasses are held securely and the cas
   <img src="https://github.com/user-attachments/assets/52668957-a741-421e-aad6-2111b9cd2514" alt="Final fit check" width="50%" />
 </div>
 
-<br>
-
-**Back:** [Heat Forming the EVA Foam](Step_3_Heat_Forming_the_EVA_Foam.md)
+[← Back to Table of Contents](README.md) | [← Previous: Heat Forming the EVA Foam](Step_3_Heat_Forming_the_EVA_Foam.md)
