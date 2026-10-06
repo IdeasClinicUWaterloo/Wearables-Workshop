@@ -1,4 +1,4 @@
-[← Back to Table of Contents](README.md) | [← Previous: Cutting the Fabric](03-cutting-the-fabric.md) | [Next: Sewing the Front and Back Pieces →](05-sewing-front-and-back-pieces.md)
+[← Back to Table of Contents](README.md) | [← Previous: Cutting the Fabric](03-cutting-the-fabric.md) | [Next: Pinning and Sewing the Fabric and Batting →](05-pinning-and-sewing-the-fabric-and-batting.md)
 
 # 4. Threading the Machine
 
@@ -17,4 +17,4 @@ Before you start sewing, you must make sure your sewing machine is threaded. Fir
 
 ---
 
-[← Back to Table of Contents](README.md) | [← Previous: Cutting the Fabric](03-cutting-the-fabric.md) | [Next: Sewing the Front and Back Pieces →](05-sewing-front-and-back-pieces.md)
+[← Back to Table of Contents](README.md) | [← Previous: Cutting the Fabric](03-cutting-the-fabric.md) | [Next: Pinning and Sewing the Fabric and Batting →](05-pinning-and-sewing-the-fabric-and-batting.md)
