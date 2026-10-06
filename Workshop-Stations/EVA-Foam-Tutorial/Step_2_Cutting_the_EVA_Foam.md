@@ -1,3 +1,5 @@
+[← Back to Table of Contents](README.md) | [← Previous: Pattern Making](Step_1_Pattern_Making.md) | [Next: Heat Forming the EVA Foam →](Step_3_Heat_Forming_the_EVA_Foam.md)
+
 # Step 2 - Cutting the EVA Foam
 
 Once the paper templates have been finalized, transfer them onto the EVA foam. Accurate cutting will ensure that all the pieces fit together properly during assembly.
@@ -26,6 +28,4 @@ Carefully cut along the traced lines using a pair of scissors. Make long, smooth
 ### 3. Check the pieces
 After cutting, arrange all pieces together and compare them with the paper templates to ensure all dimensions are correct. Test that the fit together as intended before moving on to heat forming.
 
-<br>
-
-**Back:** [Pattern Making](Step_1_Pattern_Making.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Next:** [Heat Forming the EVA Foam](Step_3_Heat_Forming_the_EVA_Foam.md)
+[← Back to Table of Contents](README.md) | [← Previous: Pattern Making](Step_1_Pattern_Making.md) | [Next: Heat Forming the EVA Foam →](Step_3_Heat_Forming_the_EVA_Foam.md)
