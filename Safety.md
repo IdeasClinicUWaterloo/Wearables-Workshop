@@ -1,3 +1,5 @@
+[To README](README.md) | [Sewing Station Instructions](Sewing-Tutorial/README.md) | [Foam Station Instructions](EVA-Foam-Tutorial/README.md)
+
 # Safety Guidelines
 
 This workshop uses a variety of tools. None of these tools can kill you (unless you are using them incredibly wrong), but most of them can cause minor to moderate injuries. We advice you to read the following safety guidelines, to listen to the workshop hosts, and to use caution with our equipment. If you are ever in doubt, **ask a workshop host**!
@@ -84,3 +86,5 @@ Do NOT place hot surface of iron on flammable materials
 - If the machine starts making weird noises STOP THE MACHINE
 - If there is a lot of thread piling up STOP THE MACHINE and have a workshop host come take a look 
 - When in doubt STOP THE MACHINE
+
+[To README](README.md) | [Sewing Station Instructions](Sewing-Tutorial/README.md) | [Foam Station Instructions](EVA-Foam-Tutorial/README.md)
