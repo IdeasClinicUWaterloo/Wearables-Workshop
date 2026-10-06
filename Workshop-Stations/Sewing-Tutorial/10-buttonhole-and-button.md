@@ -1,4 +1,4 @@
-[← Back to Table of Contents](README.md) | [← Previous: Sewing Both Pieces Together](09-sewing-both-pieces-together.md)
+[← Back to Table of Contents](README.md) | [← Previous: Folding and Sewing the Piece Together](09-folding-and-sewing-the-piece-together.md)
 
 # 10. Creating and Reinforcing the Buttonhole
 
@@ -47,4 +47,4 @@ If you're building any of these, remember: **never sew directly over electronic 
 
 ---
 
-[← Back to Table of Contents](README.md) | [← Previous: Sewing Both Pieces Together](09-sewing-both-pieces-together.md)
+[← Back to Table of Contents](README.md) | [← Previous: Folding and Sewing the Piece Together](09-folding-and-sewing-the-piece-together.md)
