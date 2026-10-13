@@ -22,6 +22,7 @@ By the end of this tutorial you will be able to:
 
 ## Table of Contents
 
+1. [IDEAS Clinic Sewing Machine Tutorial](IDEAS-Clinic-Sewing-Machine-Tutorial.md) — Quick tutorial to get familiar with the machines
 1. [Materials and Fabric Selection](01-materials-and-fabric-selection.md) — What you'll need and how to choose the right fabric
 2. [Creating the Template](02-creating-the-template.md) — Measuring your item and drafting a reusable paper pattern
 3. [Cutting the Fabric](03-cutting-the-fabric.md) — Pressing fabric and cutting all pattern pieces
