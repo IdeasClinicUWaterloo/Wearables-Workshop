@@ -1,8 +1,8 @@
-## IDEAS Clinic Sewing Machine Tutorial 
+# IDEAS Clinic Sewing Machine Tutorial 
 
 The IDEAS Clinic uses Singer Heavy Duty Sewing Machines pictured below: 
 
-# Parts of the Sewing Machine 
+## Parts of the Sewing Machine 
 See the labeled diagram and part descriptions below: 
 
 - **Presser Foot:** Keeps the fabric pressed down to prevent bunching and ensures a smooth stitch.
@@ -22,10 +22,10 @@ See the labeled diagram and part descriptions below:
 - **Bobbin Winder:** What the bobbin sits on when it is winded. 
 - **Foot Pedal:** Moves the needle up and down to create stitches at an automated pace. The harder you press down the faster it will god. 
 
-# How to Thread and Insert a Bobbin 
+## How to Thread and Insert a Bobbin 
 
-# How to Manually Stitch 
+## How to Manually Stitch 
 
-# How to Automatically Stitch 
+## How to Automatically Stitch 
 
-# How to Backstitch 
+## How to Backstitch 
