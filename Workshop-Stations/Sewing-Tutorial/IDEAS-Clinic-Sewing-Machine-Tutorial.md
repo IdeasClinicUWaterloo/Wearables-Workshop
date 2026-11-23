@@ -5,6 +5,8 @@ The IDEAS Clinic uses Singer Heavy Duty Sewing Machines pictured below:
 ## Parts of the Sewing Machine 
 See the labeled diagram and part descriptions below: 
 
+![Labelled IDEAS Clinic Sewing Machine](images/ideas-clinic-sewing-machine-labelled.png)
+
 - **Presser Foot:** Keeps the fabric pressed down to prevent bunching and ensures a smooth stitch.
 - **Presser Foot Lifter:** A lever to raise and lower the presser foot.
 - **Feed Dogs:** What pulls the fabric along as it is stitched.
@@ -16,7 +18,7 @@ See the labeled diagram and part descriptions below:
 - **Stitch Width Regulator:** Turn the dial to control the width of the stitch.
 - **Stitch Length Regulator:** Turn the dial to control the length of the stitch.
 - **Stitch Selection:** Turn the dial to select the type of stitch.
-- **Spool Pin:** What the spool sits on. This spool threads the bottom stitch.
+- **Spool Pin:** What the spool sits on. This spool threads the top stitch.
 - **Thread Guide:** Guides the thread to be tightly wound.
 - **Tension Regulator:** Turn the dial to control the tension of the thread. These machines are kept at 4. 
 - **Bobbin Winder:** What the bobbin sits on when it is winded.
